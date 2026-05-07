@@ -1,5 +1,8 @@
 ## Quick start
+```
 ./vec.py --reference old_vers/emu-combined-species.tsv --test  TRANA/emu-combined-species.tsv --outdir results --tolerance 0.001
+```
+
 ## Requirements
 python
 # Usage
